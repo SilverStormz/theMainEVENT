@@ -1,0 +1,22 @@
+color bgColor = color(110, 255, 251);
+
+
+void setup() {
+  size(500, 500); 
+  background(bgColor);
+}
+
+void draw() {
+  
+    fill(231, 167, 215);
+    stroke(255, 255, 120);
+    rect(mouseX, mouseY, 112, 70);
+    
+    if(mousePressed) {
+    fill(211, 197, 15);
+    stroke(234, 215, 10);
+    triangle (mouseX, mouseY, 25, 0, 12, 12);
+    }
+ 
+}
+
