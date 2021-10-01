@@ -1,0 +1,22 @@
+
+void draw(){
+  background(255);
+  fill(255,0,0);
+  ellipse(mannyX, mannyY, size, size);
+  
+  mannyX = mannyX + (xspeed * xdirection);
+  mannyY = mannyY + (yspeed * ydirection);
+  
+  if (mannyX > width || mannyX < 0){
+      xspeed = xspeed * -1;
+    
+  }
+  
+   if (mannyY > height || mannyY < 0){
+      yspeed = yspeed * -1;
+      
+   }
+   
+
+  
+}
