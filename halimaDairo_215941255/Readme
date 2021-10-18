@@ -1,4 +1,5 @@
 For the project the initial plan was to have it split when triggered into to more puffballs but i can't figure it out.
 if you need to make it bigger wave the mouse around the puffball it grows 
 there is a limit to puffball's growth 
+when he reaches the limit he moves on x axis alone
 i got the puff ball image from http://object-shows.wikia.com/wiki/Puffball
