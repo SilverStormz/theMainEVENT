@@ -1,0 +1,8 @@
+i tried to recreate flappy bird, i was unable to get it done well in time.
+i used a flappy bird tutorial from juan carlos duque, sky czar and  stephen Rioux  from the processing forums openprocessing.org and allen thoe from youtube
+i used basic collision detection for jumping 
+my background image was from https://www.freepik.com/vectors/star'>Star vector created by upklyak
+my pipe images were from https://www.bing.com/images/search?view=detailV2&ccid=eR7Adtbs&id=91EDB44707BBF3DD9C3BE2541422D70CECE2D44A&thid=OIP.eR7AdtbsXFfn98-EDmxAPQHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.791ec076d6ec5c57e7f7cf840e6c403d%3frik%3dStTi7AzXIhRU4g%26riu%3dhttp%253a%252f%252fwww.albertopasca.it%252fwhiletrue%252fwp-content%252fuploads%252f2014%252f02%252fPipeTop%25402x.png%26ehk%3dd8TUHdBSMHxwk7w%252fPgd4f4ufPFdd9pjiopgx4pRtn50%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=112&expw=112&q=flappy+bird+pipe+down&simid=608032073509439593&FORM=IRPRST&ck=359F1610F6944CB362263D9284652A53&selectedIndex=6&ajaxhist=0&ajaxserp=0
+and the other from https://www.bing.com/images/search?view=detailV2&ccid=4e8FWX2d&id=492998C8F3A8AFAB674305D39DA50A59B336CC3B&thid=OIP.4e8FWX2dCf73FWBsE5UftgHaN-&mediaurl=https%3a%2f%2fwww.pikpng.com%2fpngl%2fm%2f33-332693_flappy-bird-pipe-png-clipart.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e1ef05597d9d09fef715606c13951fb6%3frik%3dO8w2s1kKpZ3TBQ%26pid%3dImgRaw%26r%3d0&exph=1585&expw=840&q=flappy+bird+pipe+up&simid=607986220453794807&FORM=IRPRST&ck=F503B4E506BBC23922FC76419CC55E04&selectedIndex=5&ajaxhist=0&ajaxserp=0
+
+although i was unable to get my required result if was fun to make it 
