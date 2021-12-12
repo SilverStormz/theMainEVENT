@@ -1,6 +1,7 @@
-For this project, I made my version of the brightness mirrior by dan shiffmn using image and p3d to give 2d image a depth.
+For this project, I made my version of the brightness mirrior by dan shiffmn using image and p3d to give 2d image a depth. http://learningprocessing.com/examples/chp16/example-16-08-BrightnessMirror
+
  
- I captured color from an image and converterd it into spheres and inverted it to take the background out, what I was unable to achieve was have it go between two images, if i do figure it lut after the class, i definately will be updating.
+ I captured color from an image and converterd it into spheres and inverted it to take the background out, what I was unable to achieve was have it go between two images, if i do figure it out after the class, i definately will be updating.
 
  the images i used came from https://th.bing.com/th/id/R.05d087d85f3cb213be02d87b65936a8a?rik=eMdIxSAGjpCfCQ&riu=http%3a%2f%2ffandomshop.net%2fwp-content%2fuploads%2f2018%2f01%2fGal-Gadot-8-inch-x-10-inch-Photograph-Wonder-Woman-2017-Ready-to-Thrust-Sword-wWhite-Background-kn-0.jpg&ehk=0A4eQarNjYSySILv%2bN9MQHHqMfxkbBDZ%2fBOVUHcoCcg%3d&risl=&pid=ImgRaw&r=0 for the image of Gal 
 
