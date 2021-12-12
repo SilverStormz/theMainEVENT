@@ -1,4 +1,6 @@
-For this project, I made my version of the brightness mirrior by dan shiffmn using image and p3d to give 2d image a depth. http://learningprocessing.com/examples/chp16/example-16-08-BrightnessMirror
+For this project, I made my version of the brightness mirrior by dan shiffmn using image and p3d to give 2d image a depth. http://learningprocessing.com/examples/chp16/example-16-08-BrightnessMirror.
+
+i got the Idea to use Push and Pop matrix from a youtube tutorial by https://www.youtube.com/channel/UCPwg5nDMQWzkAfb56_GvGpA
 
  
  I captured color from an image and converterd it into spheres and inverted it to take the background out, what I was unable to achieve was have it go between two images, if i do figure it out after the class, i definately will be updating.
