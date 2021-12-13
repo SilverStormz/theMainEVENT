@@ -8,8 +8,11 @@ Buttons[] button = new Buttons[4];
 SoundFile[] file = new SoundFile[4];
 
 int numsounds = 4;
+int i;
+Amplitude rms;
 
-
+float SF = .15;
+float sum;
 
 
 void setup(){
@@ -24,11 +27,15 @@ void setup(){
   button[2] = new Buttons(2, 250, 400, 70, #fffacd);
   button[3] = new Buttons(3, 350, 400, 70, #00ffff);
   
-  
+  for (i = 0; i < numsounds; i++){
   file[0] = new SoundFile(this, "history.wav");
   file[1] = new SoundFile(this, "Ifetiwa.aiff");
   file[2] = new SoundFile(this, "sexybeats.mp3");
   file[3] = new SoundFile(this, "piano.mp3");
+  rms = new Amplitude(this);
+  rms.input(file[i]);
+  }
+  
  
   
 }
@@ -40,7 +47,11 @@ void draw() {
     
   }
     
+  sum +=(rms.analyze() - sum) * SF;
   
+  float rms_scaled = sum *(height/2) * 5;
+  
+   ellipse(width/2, height/2, rms_scaled, rms_scaled);
   
  
   
